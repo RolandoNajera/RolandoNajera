@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I am a software engineer from Mexico city
+I am a software engineer from Mexico city (https://rolasnajera.com)
 - 🔭 Working on multiple frontend and backend projects using Java, Nodejs, Angular, AWS
 - 🌱 Currently working in my startup about teaching
 <br>
