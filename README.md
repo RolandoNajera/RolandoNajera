@@ -29,6 +29,14 @@ I am a software engineer from Mexico city (https://rolasnajera.com)
 <br>
 <br>
 
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
+<br>
+<br>
+
 <!--
 **RolandoNajera/RolandoNajera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
